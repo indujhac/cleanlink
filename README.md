@@ -120,5 +120,4 @@ This project is licensed under the MIT License.
 👤 Author
 Indujha
 
-* GitHub: https://github.com/indu2809
-* LinkedIn: https://linkedin.com/in/indujha2809
+
